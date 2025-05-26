@@ -1,0 +1,29 @@
+# Standard Python .gitignore
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+env/
+ENV/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+*.sqlite3
+*.db
+articles.db
+# pytest
+.cache/
+.pytest_cache/
+# Jupyter
+.ipynb_checkpoints/
+# OS
+Thumbs.db
